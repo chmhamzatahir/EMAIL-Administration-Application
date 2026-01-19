@@ -1,0 +1,9 @@
+    Encapsulation: Instance variables are private, accessed only through methods.
+
+    Dynamic Email Generation: The email is automatically built using the names, department choice, and company suffix.
+
+    Random Password Logic: Uses Math.random() to pull characters from a defined set.
+
+    User Input: Uses the Scanner class to interact with the IT Administrator during account creation.
+
+    Formatted Output: The showInfo() method provides a clean summary of the created account.
